@@ -17,32 +17,22 @@ For sample text : http://www.blindtextgenerator.com/
 Dummy Content
 
 http://lorempixel.com/
-
-
 https://placeholder.com/
-
-
 http://www.blindtextgenerator.com/lorem-ipsum
 
 
 CDN Libraries
 
 https://getbootstrap.com/docs/4.0/getting-started/introduction/
-
-
 https://developers.google.com/speed/libraries/
 
 
 Tools
 
 https://wordtohtml.net/
-
-
 http://brackets.io/
-
-
 https://www.google.com/chrome/index.html
-
+I use Visual Studio Code as my editor
 
 Draw designing
 
